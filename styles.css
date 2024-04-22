@@ -1,0 +1,38 @@
+body {
+  background: aqua;
+}
+
+#container {
+  margin: 50px;
+  padding: 10px;
+  width: auto;
+  background: gray;
+}
+
+#title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#adding {
+  padding: 10px;
+  text-align: center;
+}
+
+#results {
+  text-align: center;
+  margin: 8px;
+  justify-content: left;
+  background-color: rgb(172, 159, 159);
+}
+
+button {
+  border-radius: 80px;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: lightblue;
+}
